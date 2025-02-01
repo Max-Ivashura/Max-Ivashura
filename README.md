@@ -1,6 +1,6 @@
 # Hi, I'm Max Ivashura! 👋
 
-I'm an aspiring backend developer passionate about building high-quality and scalable web applications. My tech stack includes Python, Django, Docker, Git, Linux, HTML, and CSS. I'm constantly learning and improving my skills to become a professional in the world of development.
+I'm an aspiring backend developer passionate about building high-quality and scalable web applications. My tech stack includes Python, Django and Docker. I'm constantly learning and improving my skills to become a professional in the world of development.
 
 ---
 
