@@ -25,9 +25,7 @@ I'm an aspiring backend developer passionate about building high-quality and sca
 
 Here are some projects I've worked on:
 
-1. **Project 1**: Brief description of the project. [Repository Link](#)
-2. **Project 2**: Brief description of the project. [Repository Link](#)
-3. **Project 3**: Brief description of the project. [Repository Link](#)
+1. **Python Playground: Testing and Learning**: Python Playground is a comprehensive project where I dive deep into Python, exploring and testing every aspect of the language.  [Repository Link](https://github.com/Max-Ivashura/Python_Playground)
 
 ---
 
